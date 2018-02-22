@@ -1,0 +1,24 @@
+{
+  "name": "wepy-slide",
+  "version": "0.0.1",
+  "description": "一个wepy的侧滑组件",
+  "main": "slide.wpy",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lulusir/wepy-slide.git"
+  },
+  "keywords": [
+    "wepy",
+    "slide",
+    "swpier"
+  ],
+  "author": "lujs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lulusir/wepy-slide/issues"
+  },
+  "homepage": "https://github.com/lulusir/wepy-slide#readme"
+}
