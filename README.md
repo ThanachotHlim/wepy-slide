@@ -4,8 +4,8 @@
 npm install wepy-slide --save
 ```
 ```
-<!-- speed是动画持续时间，可不传 -->
-<slide :speed="300" >
+<!-- speed是动画持续时间，可不传，默认为17ms -->
+<slide :speed="17" >
   <repeat >
     <image class="slide-img" src="{{item.image}}"></image>
   </repeat>

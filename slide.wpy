@@ -93,7 +93,7 @@
       const animation = wx.createAnimation({
         transformOrigin: 'left top',
         timingFunction: 'linear',
-        duration: speed || 300,
+        duration: speed || 17,
         delay: 0
       })
 
