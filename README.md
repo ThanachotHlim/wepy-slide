@@ -1,5 +1,6 @@
 # wepy-slide
-在小程序wepy框架使用的侧滑组件
+在小程序wepy框架使用的侧滑组件 
+这个组件不再维护，不建议在实际环境使用
 ```
 npm install wepy-slide --save
 ```
